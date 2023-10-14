@@ -1,18 +1,10 @@
-# Project-1 
-# ABC Match
-Holistic transdisciplinary socio-economic and environmental sustainability
+- 👋 Hi, I’m Abayomi Taiwo, Ph.D., MIPAN
+- 👀 I’m interested in development of a Platform and App for Marine waste management in sustainable development
+- 🌱 I’m currently learning business administration for use in business, product, service, process and system development
+- 💞️ I’m looking to collaborate on on this business analysis and development
+- 📫 How to reach me on my Linkedin, Facebook, email and phone number
 
-# Description
-Holistic transdisciplinary socio-economic sustainable development applicable to marine, air and land
-
-# License
-MIT, GNU General Public License
-
-#Motivation
-Addressing global complex socio-economic and environmental challenges. This provides insight and solutions to address these issues comprehensively
-Transdisciplinary collaboration from various fields of environmental sciences, sociology, and technology to solve problem
-Community engagement and participation to contribute expertise and data to advance sustainability
-
-## Screenshot
-![Screenshooting] (Images/sustainability.png1)
-![Screenshooting] (Images/sustainability.png2)
+<!---
+Tags12/Tags12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
